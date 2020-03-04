@@ -1,10 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Linda Yuan
 description: Linda's personal website
-link: <a href="https://www.linkedin.com/in/linda-xinyi-yuan-244989170/">View My LinkedIn Profile</a>
-author:
-  name             : "Linda Yuan"
-  email            : "xinyiy6@illinois.edu"
-  github           : "LindaYuan6"
-  linkedin         : "https://www.linkedin.com/in/linda-xinyi-yuan-244989170/"
-
+linkedin: "https://www.linkedin.com/in/linda-xinyi-yuan-244989170/"
