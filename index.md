@@ -2,10 +2,6 @@
 
 Welcome to my website! :relaxed:
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/linda-xinyi-yuan-244989170"
 
 ![my picture](CareerFair.jpg)
 
