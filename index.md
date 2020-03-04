@@ -4,5 +4,5 @@ Welcome to my website! :relaxed:
 
 ![my picture](IMG_6503.jpg)
 
-I'm a sophomore student studying pursuing dual degree in Accountancy and Statistics at University of Illinois at Urbana-Champaign
+I'm a sophomore student studying pursuing dual degree in Accountancy and Statistics at University of Illinois at Urbana-Champaign. On campus, I get involved in EntreCORPS, a business RSO focus on start-ups consulting. I did projects for clients ranging from education to technology companies. In the future, I'm planning to do public accounting after graduation and combine accounting together with data analytics. 
 
