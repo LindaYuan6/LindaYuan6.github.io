@@ -4,6 +4,12 @@ description: Linda's personal website
 
 link: <a href="https://www.linkedin.com/in/linda-xinyi-yuan-244989170/">View My LinkedIn Profile</a> 
 
+link: [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/linda-xinyi-yuan-244989170"
+
+
 
 
     
