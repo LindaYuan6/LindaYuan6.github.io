@@ -2,14 +2,10 @@ theme: jekyll-theme-leap-day
 title: Linda Yuan
 description: Linda's personal website
 
+[[params.socalshare]]
+url="https://www.linkedin.com/in/linda-xinyi-yuan-244989170/"
+fa_icon = "fa-linkedin-square"
 
-
-
-
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/linda-xinyi-yuan-244989170"
     
   
 
