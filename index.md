@@ -13,7 +13,7 @@ I'm a sophomore student studying pursuing a dual degree in Accountancy and Stati
 [Resume](Resume.pdf)
 
 Past Project:  
-[Project 1](hw01.html)
+[Project 1](hw01.html)  
 [Project 2](hw02.html)
 
 
