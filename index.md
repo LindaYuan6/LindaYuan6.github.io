@@ -12,7 +12,9 @@ I'm a sophomore student studying pursuing a dual degree in Accountancy and Stati
 [Email](xinyiy6@illinois.edu)  
 [Resume](Resume.pdf)
 
-[Past Project](hw02.html)
+Past Project:  
+[Project 1](hw01.html)
+[Project 2](hw02.html)
 
 
 
