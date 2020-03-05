@@ -10,7 +10,7 @@ I'm a sophomore student studying pursuing a dual degree in Accountancy and Stati
 [Linkedin](https://www.linkedin.com/in/linda-xinyi-yuan-244989170/)  
 [GitHub](https://github.com/LindaYuan6)  
 [Email](xinyiy6@illinois.edu)
-[Resume](Linda Yuan Resume_02_13_20.pdf)
+[Resume](/pdf/Linda Yuan Resume_02_13_20.pdf)
 
 
 ---
