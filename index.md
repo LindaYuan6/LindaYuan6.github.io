@@ -13,9 +13,4 @@ I'm a sophomore student studying pursuing a dual degree in Accountancy and Stati
 [Resume](Resume.pdf)
 
 
----
-layout: page
-title: Materials
----
-[Email](xinyiy6@illinois.edu)
 
