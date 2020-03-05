@@ -7,3 +7,4 @@ Welcome to my website! :blush:
 
 I'm a sophomore student studying pursuing a dual degree in Accountancy and Statistics at the University of Illinois at Urbana-Champaign. On campus, I get involved in EntreCORPS, a business RSO focusing on start-ups consulting. I did projects for clients ranging from education to technology companies. In the future, I'm planning to do public accounting after graduation and combine accounting with data analytics. 
 
+https://www.linkedin.com/in/linda-xinyi-yuan-244989170/
