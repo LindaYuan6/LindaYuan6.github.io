@@ -1,4 +1,32 @@
-theme: jekyll-theme-leap-day
 title: Linda Yuan
+author: LindaYuan6
+email: xinyiy6@illinois.edu
 description: Linda's personal website
-linkedin: "https://www.linkedin.com/in/linda-xinyi-yuan-244989170/"
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Linda Yuan
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
+
+  # generate social links in footer
+  social_links:
+    github:  "https://github.com/LindaYuan6"
+    linkedIn: "https://www.linkedin.com/in/linda-xinyi-yuan-244989170/"
+    rss: rss
+    
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
