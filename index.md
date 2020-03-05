@@ -10,10 +10,12 @@ I'm a sophomore student studying pursuing a dual degree in Accountancy and Stati
 [Linkedin](https://www.linkedin.com/in/linda-xinyi-yuan-244989170/)  
 [GitHub](https://github.com/LindaYuan6)  
 [Email](xinyiy6@illinois.edu)
+[Stat 385](/pdf/sample_presentation.pdf)
+< img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 layout: page
 title: Materials
 ---
+[Email](xinyiy6@illinois.edu)
 
-dsa
