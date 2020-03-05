@@ -1,6 +1,6 @@
 ## Hello! I'm Linda
 
-Welcome to my website! :slightly_smiling_face:
+Welcome to my website! :blush:
 
 
 ![my picture](CareerFair.jpg)
