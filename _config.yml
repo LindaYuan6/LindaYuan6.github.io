@@ -2,3 +2,14 @@ theme: jekyll-theme-leap-day
 title: Linda (Xinyi) Yuan
 description: Linda's personal website
 Linkedin: "https://www.linkedin.com/in/linda-xinyi-yuan-244989170/"
+
+---
+layout: post
+title: Awesome Blog Post
+excerpt: "Why you should read my website"
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
+
+I'm currently working on using dataframe in R to do data analysis. 
